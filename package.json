@@ -22,7 +22,7 @@
     "firebase": "^5.9.3",
     "fs": "0.0.1-security",
     "google-auth-library": "^6.0.0",
-    "http-errors": "~1.6.2",
+    "http-errors": "~1.8.0",
     "jade": "^1.11.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb-memory-server": "^2.9.3",
